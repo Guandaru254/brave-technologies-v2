@@ -89,4 +89,4 @@ export default function HardwareProductsPage() {
       </section>
     </main>
   );
-}po
+}
