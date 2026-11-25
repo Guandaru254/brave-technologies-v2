@@ -20,12 +20,6 @@ const portfolioProjects = [
     alt: 'Tech consulting services offered by Brave Technologies',
   },
   {
-    title: 'URBAN SOFAS',
-    href: 'https://urban-sofas.onrender.com/',
-    imgSrc: '/assets/imgs/portfolio/urban.png',
-    alt: 'Tech consulting services offered by Brave Technologies',
-  },
-  {
     title: 'NOTOS LIFE',
     href: 'https://notos-life-v2-7lml.vercel.app/',
     imgSrc: '/assets/imgs/portfolio/notos.png',
@@ -35,24 +29,6 @@ const portfolioProjects = [
     title: 'SAFARI LEATHER COLLECTIONS',
     href: 'https://safari-leather.vercel.app/',
     imgSrc: '/assets/imgs/portfolio/safari.png',
-    alt: 'Tech consulting services offered by Brave Technologies',
-  },
-  {
-    title: 'JASIRI',
-    href: '/jasiri.html',
-    imgSrc: '/assets/imgs/portfolio/jasiri3.png',
-    alt: 'remote IT support services offered by Brave Technologies',
-  },
-  {
-    title: 'LE FOURNIL',
-    href: 'https://www.lefournil.co.ke/',
-    imgSrc: '/assets/imgs/portfolio/fournil.png',
-    alt: 'Tech consulting services offered by Brave Technologies',
-  },
-  {
-    title: 'TAZAMO AFRICA',
-    href: 'https://tazamoafrica.com',
-    imgSrc: '/assets/imgs/portfolio/tazamo.jpg',
     alt: 'Tech consulting services offered by Brave Technologies',
   },
   {
