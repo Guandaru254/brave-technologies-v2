@@ -11,18 +11,18 @@ export default function AboutUs() {
         
         {/* Main Title */}
         <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 leading-[1.1]">
-          Engineering Institutional Digital Infrastructure in Kenya & Beyond.
+          Institutional Digital Infrastructure in Kenya & Beyond.
         </h1>
 
         <p className="text-lg md:text-xl text-zinc-600 mb-16 font-normal leading-relaxed">
-          Founded in 2024, Brave Technologies Ltd was built with a singular mission: to bridge the gap between high-performance software engineering and scalable commercial growth for East African enterprises.
+          Brave Technologies Ltd was built with a singular mission: to bridge the gap between high-performance software engineering and scalable commercial growth for East African enterprises.
         </p>
 
         {/* Brand Story Section */}
         <section className="space-y-8 mb-20 border-t border-zinc-200 pt-16">
           <h2 className="text-3xl font-bold tracking-tight">Our Brand Story</h2>
           <p className="text-zinc-700 leading-relaxed text-base">
-            Since our inception in 2024, Brave Technologies has been at the forefront of digital transformation. Operating out of Nairobi, Kenya, we combine technical rigor with data-driven strategy. Our work spans custom Next.js web applications, secure M-Pesa payment integrations, automated workflows, and high-impact digital solutions designed for modern enterprises.
+          Brave Technologies has been at the forefront of digital transformation since our inception in 2024 . We combine technical rigor with data-driven strategy. Our work spans custom web applications, secure M-Pesa payment integrations, automated workflows, and high-impact digital solutions designed for modern enterprises.
           </p>
           <p className="text-zinc-700 leading-relaxed text-base">
             As a progressive technology consultancy, we believe in building long-term, trusted partnerships. Whether scaling e-commerce platforms for retailers or deploying institutional software engines, our focus remains absolute: measurable performance, pristine user experience, and absolute reliability.

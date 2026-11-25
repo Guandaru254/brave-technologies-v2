@@ -30,7 +30,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="py-24 px-8 text-center max-w-5xl mx-auto">
         <div className="inline-block mb-6 px-4 py-1.5 rounded-full bg-zinc-100 border border-zinc-200 text-zinc-800 text-xs font-semibold tracking-wider uppercase">
-          Institutional Digital Infrastructure & Engineering in Kenya
+          Institutional Digital Infrastructure in Kenya & East Africa
         </div>
         <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-8 leading-[1.1]">
           Digital Solutions for <span className="underline decoration-zinc-300">Small & Medium Businesses in Kenya & East Africa</span>
@@ -74,26 +74,7 @@ export default function Home() {
       </section>
 
       {/* Trust & Authority Bar */}
-      <section className="bg-zinc-50 border-y border-zinc-200 py-12 px-8">
-        <div className="max-w-7xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-          <div>
-            <p className="text-2xl font-bold text-black">10+ Years</p>
-            <p className="text-xs text-zinc-600 mt-1 uppercase tracking-wider">Digital Marketing Experience</p>
-          </div>
-          <div>
-            <p className="text-2xl font-bold text-black">WordPress & Next.js</p>
-            <p className="text-xs text-zinc-600 mt-1 uppercase tracking-wider">Engineering Experts</p>
-          </div>
-          <div>
-            <p className="text-2xl font-bold text-black">GEO & SEO</p>
-            <p className="text-xs text-zinc-600 mt-1 uppercase tracking-wider">AI Search Optimization</p>
-          </div>
-          <div>
-            <p className="text-2xl font-bold text-black">M-Pesa Ready</p>
-            <p className="text-xs text-zinc-600 mt-1 uppercase tracking-wider">Local Market Integration</p>
-          </div>
-        </div>
-      </section>
+   
     </main>
   );
 }
